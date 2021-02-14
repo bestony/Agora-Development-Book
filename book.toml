@@ -1,6 +1,6 @@
 [book]
 language = "zh-CN"
-title = "Agora Book - Agroa.io 应用开发指南"
+title = "Agora Book - Agora.io 应用开发指南"
 authors = ["白宦成 <bestony@linux.com>"]
 description = "这是一本 Agora 实战应用开发经验集合，总结了作者在开发 NESHouse 和 NESHouse Pro 版本时的心得体会。"
 multilingual = false
