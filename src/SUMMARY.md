@@ -1,7 +1,7 @@
 # Summary
 
-- [本书介绍](./intro.md)
-- [关于作者](./about-author.md)
+[本书介绍](./intro.md)
+[关于作者](./about-author.md)
 
 ---
 
@@ -22,3 +22,6 @@
   - [一些需要注意的点](./some-points.md)
 # Agora 应用开发 FAQ
 - [关于项目](./create-application.md)
+
+
+[联系我](./feedback.md)
