@@ -17,5 +17,7 @@ client.on("volume-indicator", volumes => {
 
 在使用时，如果你检测到用户的 Level 超过了 5 ，则可以视为该用户正在发言[^level]
 
+在实际使用的时候，需要注意，该事件每 2 秒传递一次数据[^level]，如果你需要更实时的状态展示，则需要通过其他的方法来完成
 
-[^level]:https://docs.agora.io/cn/Voice/API%20Reference/web_ng/interfaces/iagorartcclient.html#event_volume_indicator
+[^level]: 相关文档见[这里](https://docs.agora.io/cn/Voice/API%20Reference/web_ng/interfaces/iagorartcclient.html#event_volume_indicator
+)
