@@ -6,8 +6,9 @@
 ---
 
 # 关于 Agora.io
-- [关于价格](about-price.md)
+- [关于价格](./about-price.md)
 
+# Agora 应用开发接入
 
-# Agora 应用开发心得总结
-- [本书介绍]()
+# Agora 应用开发 FAQ
+- [关于项目](./create-application.md)
