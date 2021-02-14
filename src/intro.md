@@ -1,5 +1,7 @@
 # 本书介绍
 
+![](https://postimg.aliavv.com/mbp2021/5s0c3.png)
+
 ## 为什么要写这本书？
 
 2021 年初 ClubHouse 的爆火，让 ClubHouse 的音频服务提供商 Agora.io 出现在了大众眼前。每个人开始打量这样的一个公司和他们的产品。作为一个开发者，我开启了一个针对自己的 Hackthon，要用 72 小时完成一个 ClubHouse 的复刻应用的开发。
