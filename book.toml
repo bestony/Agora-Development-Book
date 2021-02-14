@@ -10,6 +10,8 @@ src = "src"
 create-missing = true
 [output.html]
 google-analytics = "G-N2MS64YPM9"
+git-repository-url = "https://github.com/bestony/Agora-Development-Book"
+git-repository-icon = "fa-github"
 [output.html.search]
 enable = true
 limit-results = 30
