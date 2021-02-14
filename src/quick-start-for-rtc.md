@@ -20,7 +20,6 @@ npm install agora-rtc-sdk-ng --save
 
 ```js
 import AgoraRTC from "agora-rtc-sdk-ng"
-const client = AgoraRTC.createClient({ mode: "rtc", codec: "vp8" });
 ```
 
 ### 1.2 使用 CDN 接入
