@@ -29,3 +29,6 @@ Agora.io 的产品不少，有**语音通话**、**视频通话**、**互动直�
 如果给这本书定位，那么这本书应该是一本「**从0到1**」的电子书。
 
 如果你已经准备好了，那就点击左侧的目录，来阅读这本书吧！
+
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
