@@ -19,5 +19,6 @@
   - [实现退出时发送信令](./send-exit.md)
   - [实现超过 512 人的大型房间](./get-big-room.md)
   - [实现显示用户人数](./get-user-count.md)
+  - [一些需要注意的点](./some-points.md)
 # Agora 应用开发 FAQ
 - [关于项目](./create-application.md)
