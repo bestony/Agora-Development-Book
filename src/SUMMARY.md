@@ -10,5 +10,9 @@
 
 # Agora 应用开发接入
 
+- [快速在 Web 应用中接入语音通话](./quick-start-for-rtc.md)
+- [快速在 Web 应用中接入实时消息/信令](./quick-start-for-rtm.md)
+
+
 # Agora 应用开发 FAQ
 - [关于项目](./create-application.md)
