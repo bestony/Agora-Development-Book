@@ -1,6 +1,5 @@
 # Summary
 
-# 关于本书
 - [本书介绍](./intro.md)
 - [关于作者](./about-author.md)
 
