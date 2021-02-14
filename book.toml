@@ -8,7 +8,8 @@ src = "src"
 
 [build]
 create-missing = true
-
+[output.html]
+google-analytics = "G-N2MS64YPM9"
 [output.html.search]
 enable = true
 limit-results = 30
