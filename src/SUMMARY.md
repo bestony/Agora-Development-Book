@@ -2,7 +2,6 @@
 
 [本书介绍](./intro.md)
 [关于作者](./about-author.md)
-[京ICP备2022003750号-5](https://beian.miit.gov.cn/)
 
 ---
 
