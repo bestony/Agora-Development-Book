@@ -9,7 +9,7 @@ on:
   
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
